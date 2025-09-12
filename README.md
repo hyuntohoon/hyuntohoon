@@ -14,11 +14,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 
 ## Experience & Activities
-- 동아대학교 알고리즘 동아리 활동 (2022 ~ 2024)
+- 대학교 알고리즘 동아리 활동 (2022 ~ 2024)
 - 구글 GDSC(Google Student Developer Club) (2022 ~ 2024)
 - kakao x goorm 구름톤 참가(2023.05)
 - SSAFY 11기 활동(2024.01 ~ )
 
 ## Award
-- 2022.12 동아대학교 DEVDAY 우수상
+- 2022.12 대학교 DEVDAY 우수상
 - 2024.05 SSAFY 삼성 SW 아카데미 관통프로젝트 최우수상
+- 2024.09 SSAFY 삼성 SW 아카데미 공통프로젝트 우수상
+- 2024.09 SSAFY 삼성 SW 아카데미 특화프로젝트 우수상
+- 2024.09 SSAFY 삼성 SW 아카데미 기업연계 프로젝트 우수상
